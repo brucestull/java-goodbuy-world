@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GoodbuyWorld",
+            "request": "launch",
+            "mainClass": "GoodbuyWorld",
+            "projectName": "playground-non-repository_7e79ccf5"
+        },
+        {
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
