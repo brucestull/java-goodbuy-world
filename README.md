@@ -81,3 +81,7 @@ PS C:\Users\FlynntKnapp\Programming\java-goodbuy-world>
         Goodbuy, World! Enjoy the Sails!
         PS C:\Users\FlynntKnapp\Programming\java-goodbuy-world>
         ```
+
+## Resources
+
+* [JDK 17 Documentation](https://docs.oracle.com/en/java/javase/17/)
