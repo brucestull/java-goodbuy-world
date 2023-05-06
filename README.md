@@ -31,11 +31,11 @@
 1. Run the Java program:
     * `java .\src\GoodbuyWorld.java`:  
 
-```powershell
-PS C:\Users\FlynntKnapp\Programming\java-goodbuy-world> java .\src\GoodbuyWorld.java
-Goodbuy, World! Enjoy the Sails!
-PS C:\Users\FlynntKnapp\Programming\java-goodbuy-world>
-```
+        ```powershell
+        PS C:\Users\FlynntKnapp\Programming\java-goodbuy-world> java .\src\GoodbuyWorld.java
+        Goodbuy, World! Enjoy the Sails!
+        PS C:\Users\FlynntKnapp\Programming\java-goodbuy-world>
+        ```
 
 1. Compile the Java program:
     * `javac .\src\GoodbuyWorld.java`:  
