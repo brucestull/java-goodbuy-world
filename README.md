@@ -38,7 +38,7 @@
         ```
 
 1. Compile the Java program:
-    * `javac .\src\GoodbuyWorld.java`:  
+    * `javac .\src\GoodbuyWorld.java`:
 
         ```powershell
         PS C:\Users\FlynntKnapp\Programming\java-goodbuy-world> javac .\src\GoodbuyWorld.java
@@ -81,6 +81,43 @@
         Goodbuy, World! Enjoy the Sails!
         PS C:\Users\FlynntKnapp\Programming\java-goodbuy-world>
         ```
+
+## Running the Java Program
+
+### Get Help on the `java` Command
+
+* `java --help` or `java -h` - Get help on the `java` command.
+
+### Run the Java Program without Compiling
+
+* `java .\src\GoodbuyWorld.java`
+
+### Compile then Run the Java Program
+
+1. Compile the Java program:
+    * `javac .\src\GoodbuyWorld.java`
+1. Run the compiled program using one of the following commands (among others):
+    * `java -cp src GoodbuyWorld`
+    * `java -cp .\src GoodbuyWorld`
+    * `java -cp src\ GoodbuyWorld`
+    * `java -classpath src\ GoodbuyWorld`
+    * `java --class-path src\ GoodbuyWorld`
+
+* Here are some options/flags that tell Java where to look for the `.class` file (From java --help):
+
+    ```powershell
+    -cp <class search path of directories and zip/jar files>
+    ```
+
+    ```powershell
+    -classpath <class search path of directories and zip/jar files>
+    ```
+
+    ```powershell
+    --class-path <class search path of directories and zip/jar files>
+                    A ; separated list of directories, JAR archives,
+                    and ZIP archives to search for class files.
+    ```
 
 ## Resources
 
